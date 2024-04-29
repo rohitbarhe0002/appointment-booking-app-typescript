@@ -1,0 +1,2 @@
+export { appointmentReducer } from './appointmentSlice';
+
